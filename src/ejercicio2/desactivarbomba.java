@@ -2,10 +2,6 @@ package ejercicio2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Flavia
- */
 public class desactivarbomba {
 
     public static void main(String[] args) {
