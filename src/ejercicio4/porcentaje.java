@@ -1,9 +1,6 @@
 package ejercicio4;
 import java.util.Scanner;
-/**
- *
- * @author Flavia
- */
+
 public class porcentaje {
  
     public static void main(String[] args) {
