@@ -16,9 +16,10 @@ public class desactivarbomba {
         int primerNumero = codigo;
 
         if (primerNumero >= 1 && primerNumero <= 9 && segundoNumero >= 0 && tercerNumero >= 0) {
-    
+            // Si se cumplen las condiciones, muestra el codigo de desactivacion en un formato diferente.    
             System.out.println("El código de desactivación real es " + tercerNumero + "-" + segundoNumero + "-" + primerNumero);
         } else {
+            // Si las condiciones no se cumplen, muestra un mensaje de error. 
             System.out.println("El número ingresado no es un entero positivo de 3 cifras.");
         }
 
